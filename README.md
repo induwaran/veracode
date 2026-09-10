@@ -1,3 +1,5 @@
+﻿> **Fork reference — original: [eracode/veracode](https://github.com/veracode/veracode) (Veracode GitHub Workflow Integration).** Kept for pipeline reference. For my original engineering lab, see [induwaran/veracode-sast-sca-dast-lab](https://github.com/induwaran/veracode-sast-sca-dast-lab).
+
 ![Veracode](imgs/vclogo.png)
 
 # Veracode GitHub Workflow Integration 
